@@ -8,3 +8,7 @@
 数据清洗。
 存入数据库。
 ###
+#1、安装 scrapy 之后，创建一个新项目：
+******
+$ scrapy startproject zhihuxjj
+******
